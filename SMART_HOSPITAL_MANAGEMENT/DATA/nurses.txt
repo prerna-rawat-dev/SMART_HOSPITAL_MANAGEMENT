@@ -1,0 +1,22 @@
+NUR00001|Aditi Khurana|aditi01|Cardiology|DOC00001|Dr. Rahul Sharma|9876543270|Available
+NUR00002|Ahaan Tripathi|ahaan01|Cardiology|DOC00002|Dr. Priya Nair|9876543271|Available
+NUR00003|Vivaan Chawla|vivaan01|Neurology|DOC00003|Dr. Arjun Mehta|9876543272|Available
+NUR00004|Rudra Purohit|rudra01|Neurology|DOC00004|Dr. Aarav Mehta|9876543273|Available
+NUR00005|Ira Saxena|ira01|Pulmonology|DOC00005|Dr. Rohan Verma|9876543274|Available
+NUR00006|Shaurya Talwar|shaurya01|Pulmonology|DOC00006|Dr. Rishabh Sinha|9876543275|Available
+NUR00007|Reyansh Oberoi|reyansh01|Pediatrics|DOC00007|Dr. Ananya Gupta|9876543276|Available
+NUR00008|Vihaan Dutta|vihaan01|Pediatrics|DOC00008|Dr. Kunal Bhatia|9876543277|Available
+NUR00009|Navya Bhatnagar|navya01|Dermatology|DOC00009|Dr. Aditi Rao|9876543278|Available
+NUR00010|Parth Chhabra|parth01|Dermatology|DOC00010|Dr. Ankit Jain|9876543279|Available
+NUR00011|Dhruv Chatterjee|dhruv01|General Medicine|DOC00011|Dr. Aman Bansal|9876543280|Available
+NUR00012|Neil Fernandes|neil01|General Medicine|DOC00012|Dr. Manav Gupta|9876543281|Available
+NUR00013|Kiara Deshmukh|kiara01|Orthopedics|DOC00013|Dr. Karan Malhotra|9876543282|Available
+NUR00014|Eshita Reddy|eshita01|Orthopedics|DOC00014|Dr. Yash Agarwal|9876543283|Available
+NUR00015|Atharv Kulkarni|atharv01|General Surgery|DOC00015|Dr. Neha Kapoor|9876543284|Available
+NUR00016|Ishita Khandelwal|ishita01|General Surgery|DOC00016|Dr. Akash Tandon|9876543285|Available
+NUR00017|Mahika Sood|mahika01|Gynecology & Obstetrics|DOC00017|Dr. Meera Joshi|9876543286|Available
+NUR00018|Roshni Bhalla|roshni01|Gynecology & Obstetrics|DOC00018|Dr. Siddharth Rao|9876543287|Available
+NUR00019|Pranav Bhasin|pranav01|Endocrinology|DOC00019|Dr. Vivek Sethi|9876543288|Available
+NUR00020|Arnav Batra|arnav01|Endocrinology|DOC00020|Dr. Rahul Bedi|9876543289|Available
+NUR00021|Zara Qureshi|zara01|General Emergency|DOC00021|Dr. Kabir Singh|9876543290|Available
+NUR00022|Aarohi Borkar|aarohi01|General Emergency|DOC00022|Dr. Armaan Sheikh|9876543291|Available

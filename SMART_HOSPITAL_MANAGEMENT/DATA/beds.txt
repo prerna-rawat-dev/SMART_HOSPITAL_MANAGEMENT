@@ -1,0 +1,6 @@
+BED102|ROOM102|General Medicine|General|Occupied|P00002
+BED103|ROOM103|General Medicine|General|Occupied|P00003
+BED104|ROOM104|General Medicine|General|Occupied|P00004
+BED105|ROOM105|General Medicine|General|Occupied|P00005
+BED106|ROOM106|Cardiology|General|Occupied|P00006
+BED00000108|ROOM108|Gynecology & Obstetrics|General|Available|

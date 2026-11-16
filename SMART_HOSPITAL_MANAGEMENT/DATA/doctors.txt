@@ -1,0 +1,22 @@
+DOC00001|Dr. Rahul Sharma|rahul01|Cardiology|Cardiologist|9876543210|Emergency|Available
+DOC00002|Dr. Priya Nair|priya12|Cardiology|Cardiologist|9876543211|Non-Emergency|Available
+DOC00003|Dr. Arjun Mehta|arjun01|Neurology|Neurologist|9876543212|Emergency|Available
+DOC00004|Dr. Aarav Mehta|aarav17|Neurology|Neurologist|9876543213|Non-Emergency|Available
+DOC00005|Dr. Rohan Verma|rohan01|Pulmonology|Pulmonologist|9876543214|Emergency|Available
+DOC00006|Dr. Rishabh Sinha|rishabh20|Pulmonology|Pulmonologist|9876543215|Non-Emergency|Available
+DOC00007|Dr. Ananya Gupta|ananya01|Pediatrics|Pediatrician|9876543216|Emergency|Available
+DOC00008|Dr. Kunal Bhatia|kunal24|Pediatrics|Pediatrician|9876543217|Non-Emergency|Available
+DOC00009|Dr. Aditi Rao|aditi01|Dermatology|Dermatologist|9876543218|Emergency|Available
+DOC00010|Dr. Ankit Jain|ankit28|Dermatology|Dermatologist|9876543219|Non-Emergency|Available
+DOC00011|Dr. Aman Bansal|aman01|General Medicine|General Physician|9876543220|Emergency|Available
+DOC00012|Dr. Manav Gupta|manav32|General Medicine|General Physician|9876543221|Non-Emergency|Available
+DOC00013|Dr. Karan Malhotra|karan01|Orthopedics|Orthopedic Surgeon|9876543222|Emergency|Available
+DOC00014|Dr. Yash Agarwal|yash36|Orthopedics|Orthopedic Surgeon|9876543223|Non-Emergency|Available
+DOC00015|Dr. Neha Kapoor|neha01|General Surgery|General Surgeon|9876543224|Emergency|Available
+DOC00016|Dr. Akash Tandon|akash40|General Surgery|General Surgeon|9876543225|Non-Emergency|Available
+DOC00017|Dr. Meera Joshi|meera01|Gynecology & Obstetrics|Gynecologist|9876543226|Emergency|Available
+DOC00018|Dr. Siddharth Rao|siddharth44|Gynecology & Obstetrics|Gynecologist|9876543227|Non-Emergency|Available
+DOC00019|Dr. Vivek Sethi|vivek01|Endocrinology|Endocrinologist|9876543228|Emergency|Available
+DOC00020|Dr. Rahul Bedi|rahul48|Endocrinology|Endocrinologist|9876543229|Non-Emergency|Available
+DOC00021|Dr. Kabir Singh|kabir01|General Emergency|Emergency Physician|9876543230|Emergency|Available
+DOC00022|Dr. Armaan Sheikh|armaan52|General Emergency|Emergency Physician|9876543231|Non-Emergency|Available

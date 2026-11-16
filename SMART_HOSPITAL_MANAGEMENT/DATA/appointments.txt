@@ -1,0 +1,9 @@
+APT00001|P00001|DOC00012|Dr. Manav Gupta|General Medicine|2026-11-16|10:00|Hypertension follow-up
+APT00002|P00002|DOC00012|Dr. Manav Gupta|General Medicine|2026-11-16|11:00|Fever and weakness checkup
+APT00003|P00003|DOC00012|Dr. Manav Gupta|General Medicine|2026-11-17|09:30|Arthritis and knee pain consultation
+APT00004|P00004|DOC00012|Dr. Manav Gupta|General Medicine|2026-11-17|10:30|Fever and respiratory symptoms
+APT00005|P00005|DOC00012|Dr. Manav Gupta|General Medicine|2026-11-18|12:00|Migraine follow-up
+APT00006|P00006|DOC00001|Dr. Rahul Sharma|Cardiology|2026-11-18|11:00|Cardiac follow-up
+APT00007|P00001|DOC00012|Dr. Manav Gupta|General Medicine|2026-11-10|10:00|Previous consultation
+APT00008|P00003|DOC00012|Dr. Manav Gupta|General Medicine|2026-11-12|09:30|Previous consultation
+APPT000001|P00002|DOC00001|Cardiology|2026-11-16|11:00AM|Weakness|Confirmed

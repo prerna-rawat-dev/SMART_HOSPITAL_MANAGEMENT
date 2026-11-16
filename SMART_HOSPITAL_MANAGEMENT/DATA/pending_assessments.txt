@@ -1,0 +1,8 @@
+VIS00001|P00001|14-11-2026 16:44:02|Chest discomfort and shortness of breath|Emergency|GEA_mohit012|Cardiology|Critical|Emergency|DOC00001|Dr. Rahul Sharma|14-11-2026 21:27:57
+VIS00002|P00002|14-11-2026 16:48:35|weakness,fever from 3 days|Non-Emergency|GEA_mohit012|General Medicine|Moderate|Non-Emergency|DOC00012|Dr. Manav Gupta|14-11-2026 17:00:00
+VIS00003|P00003|14-11-2026 18:57:34|Severe knee pain, difficulty walking, joint stiffness|Awaiting Doctor Assignment|GEA_mohit012|Orthopedics|Severe|Emergency|||15-11-2026 20:00:42
+VIS00004|P00004|14-11-2026 19:00:19|fever,cough,sore throat|Non-Emergency|GEA_mohit012|General Medicine|Moderate|Non-Emergency|DOC00012|Dr. Manav Gupta|15-11-2026 20:57:56
+VIS00005|P00005|15-11-2026 11:37:37|recurring headache and nausea|Non-Emergency|GEA_mohit012|General Medicine|Moderate|Non-Emergency|DOC00012|Dr. Manav Gupta|15-11-2026 21:03:37
+VIS00006|P00006|15-11-2026 11:40:39|fever,weakness,body pain|Non-Emergency|GEA_mohit012|General Medicine|Moderate|Non-Emergency|DOC00012|Dr. Manav Gupta|15-11-2026 21:53:01
+VIS00007|P00007|15-11-2026 15:44:50|headache|Non-Emergency|GEA_mohit012|General Medicine|Low|Non-Emergency|DOC00012|Dr. Manav Gupta|15-11-2026 22:53:09
+VIS00008|P00008|15-11-2026 19:55:48|vomitting|Non-Emergency|GEA_mohit012|Gynecology & Obstetrics|Moderate|Non-Emergency|DOC00018|Dr. Siddharth Rao|16-11-2026 00:00:45

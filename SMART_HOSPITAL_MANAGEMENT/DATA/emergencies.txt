@@ -1,0 +1,2 @@
+EMG00001|VIS00001|P00001|	Chest discomfort and shortness of breath|DOC00021|14-11-2026 21:27:57|Critical|Cardiology|DOC00001|Not Assigned|released|1
+EMG00002|VIS00003|P00003|Severe knee pain, difficulty walking, joint stiffness|GEA_mohit012|15-11-2026 20:00:42|Severe|Orthopedics||Not Assigned|Awaiting Doctor Assignment|2
