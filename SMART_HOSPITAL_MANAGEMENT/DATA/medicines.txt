@@ -1,0 +1,35 @@
+MED00001|Paracetamol 500mg|Analgesic and Antipyretic|490|50|2.5|2028-06-30|Available
+MED00002|Ibuprofen 400mg|Anti-inflammatory|300|40|4|2028-04-30|Available
+MED00003|Amoxicillin 500mg|Antibiotic|250|40|8.5|2028-08-31|Available
+MED00004|Azithromycin 500mg|Antibiotic|200|30|12|2028-05-31|Available
+MED00005|Cetirizine 10mg|Antihistamine|350|40|3|2028-09-30|Available
+MED00006|Pantoprazole 40mg|Antacid and Gastrointestinal|300|40|5|2028-07-31|Available
+MED00007|Omeprazole 20mg|Antacid and Gastrointestinal|250|35|4.5|2028-10-31|Available
+MED00008|Metformin 500mg|Antidiabetic|400|50|3.5|2028-12-31|Available
+MED00009|Insulin Regular|Antidiabetic|100|20|180|2027-12-31|Available
+MED00010|Amlodipine 5mg|Antihypertensive|300|40|4|2028-06-30|Available
+MED00011|Telmisartan 40mg|Antihypertensive|250|35|6|2028-08-31|Available
+MED00012|Atorvastatin 10mg|Cholesterol Lowering|250|35|5|2028-09-30|Available
+MED00013|Salbutamol Inhaler|Respiratory Medicine|100|20|120|2027-11-30|Available
+MED00014|Montelukast 10mg|Respiratory Medicine|200|30|7|2028-07-31|Available
+MED00015|Ondansetron 4mg|Antiemetic|200|30|4|2028-10-31|Available
+MED00016|ORS Sachet|Electrolyte Replacement|500|60|15|2028-12-31|Available
+MED00017|Diclofenac 50mg|Analgesic and Anti-inflammatory|250|35|4.5|2028-05-31|Available
+MED00018|Aspirin 75mg|Antiplatelet|300|40|2|2028-08-31|Available
+MED00019|Cefixime 200mg|Antibiotic|180|30|10|2028-04-30|Available
+MED00020|Vitamin D3 60000 IU|Vitamin Supplement|150|25|18|2028-11-30|Available
+MED00021|Calcium 500mg|Mineral Supplement|200|30|5|2028-09-30|Available
+MED00022|Furosemide 40mg|Diuretic|180|25|4|2028-06-30|Available
+MED00023|Dexamethasone 4mg|Corticosteroid|120|20|6|2028-07-31|Available
+MED00024|Loratadine 10mg|Antihistamine|220|30|3.5|2028-12-31|Available
+MED00025|Normal Saline 500ml|IV Fluid|150|25|35|2028-10-31|Available
+MED00026|Paracetamol Syrup|Analgesic and Antipyretic|8|50|45|2028-12-31|Available
+MED00027|Ibuprofen Tablets|Anti-inflammatory|5|40|4|2028-11-30|Available
+MED00028|Cetirizine Tablets|Antihistamine|10|40|3|2028-10-31|Available
+MED00029|ORS Sachets|Electrolyte Replacement|12|60|15|2028-12-31|Available
+MED00030|Amoxicillin Capsules|Antibiotic|15|40|8.5|2028-09-30|Available
+MED00031|Expired Paracetamol|Analgesic and Antipyretic|40|50|2.5|2025-06-30|Expired
+MED00032|Expired Ibuprofen|Anti-inflammatory|30|40|4|2025-03-31|Expired
+MED00033|Expired Cetirizine|Antihistamine|25|40|3|2024-12-31|Expired
+MED00034|Expired Amoxicillin|Antibiotic|20|40|8.5|2025-01-31|Expired
+MED00035|Expired Pantoprazole|Antacid and Gastrointestinal|35|40|5|2025-05-31|Expired
