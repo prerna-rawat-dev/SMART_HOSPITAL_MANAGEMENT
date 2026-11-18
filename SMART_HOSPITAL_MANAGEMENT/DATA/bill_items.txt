@@ -1,9 +1,0 @@
-BILL000001|Blood Test|Laboratory|1|1000
-BILL000001|Antibiotics|Medicine|2|1500
-BILL000002|X-Ray|Laboratory|1|1500
-BILL000002|Painkillers|Medicine|2|2000
-BILL000003|Medicines|Medicine|2|800
-BILL000004|MRI Scan|Laboratory|1|2000
-BILL000004|Surgery Medicines|Medicine|3|3000
-BILL000005|Full Body Test|Laboratory|1|1200
-BILL000006|O2|cylinder|1|0
