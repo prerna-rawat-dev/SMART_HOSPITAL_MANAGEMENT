@@ -1,8 +1,0 @@
-P00001|2026-11-15|Chest discomfort and shortness of breath|Hypertension|Blood pressure monitoring required|Amlodipine 5mg|DOC00012|Dr. Manav Gupta
-P00002|2026-11-15|Weakness and fever for 3 days|Viral fever suspected|Rest and monitor temperature|Paracetamol|DOC00012|Dr. Manav Gupta
-P00003|2026-11-15|Severe knee pain and joint stiffness|Arthritis|Regular follow-up required|Pain management|DOC00012|Dr. Manav Gupta
-P00004|2026-11-15|Fever cough and sore throat|Upper respiratory infection suspected|Monitor fever and breathing|Symptomatic treatment|DOC00012|Dr. Manav Gupta
-P00005|2026-11-15|Recurring headache and nausea|Migraine|Avoid known triggers|Migraine treatment|DOC00012|Dr. Manav Gupta
-P00006|2026-11-15|Fever weakness and body pain|Fever under evaluation|Monitor temperature|Paracetamol|DOC00001|Dr. Rahul Sharma
-P00007|2026-11-15|headache|Migraine|patient was diagonised with headache which was due to migraine|Amlodipine|DOC00012|Dr. Manav Gupta
-P00008|2026-11-15|Vomitting,nausea,weakness,dizzy|X ray recommended and take rest|the patient is experiencing pregnancy symptoms|X ray test|DOC00018|Dr. Siddharth Rao
