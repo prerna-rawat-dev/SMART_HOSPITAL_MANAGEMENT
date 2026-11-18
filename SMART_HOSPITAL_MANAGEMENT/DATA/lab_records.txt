@@ -1,5 +1,0 @@
-LAB00001|P00002|DOC00012|Blood test|2026-11-15|Completed|o+ve|none|Normal|15-11-2026|LAB00001|0
-LAB00002|P00007|DOC00012|Blood test|2026-11-15|Pending|||Not Available|||0
-LAB00003|P00007|DOC00012|MRI|2026-11-16|Pending|||Not Available|||0
-LAB00004|P00007|DOC00012|city scan|2026-11-16|Pending|||Not Available|||0
-LAB00005|P00008|DOC00018|X RAY|2026-11-15|Completed|Pregnant|healthy/normal|Normal|16-11-2026|LAB00001|0
